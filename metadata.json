@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "A versatile web application that combines a conversational chatbot with a powerful text-to-image generator, all powered by the Google Gemini API.",
+  "requestFramePermissions": []
+}
